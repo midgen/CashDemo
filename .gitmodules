@@ -1,0 +1,9 @@
+[submodule "Plugins/UnrealFastNoise"]
+	path = Plugins/UnrealFastNoise
+	url = https://github.com/midgen/UnrealFastNoise
+[submodule "Plugins/Cashgen"]
+	path = Plugins/Cashgen
+	url = https://github.com/midgen/cashgenUE
+[submodule "Plugins/RuntimeMeshComponent"]
+	path = Plugins/RuntimeMeshComponent
+	url = https://github.com/Koderz/RuntimeMeshComponent
