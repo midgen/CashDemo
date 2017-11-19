@@ -8,7 +8,7 @@ public class CashDemo : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "CashGen", "UnrealFastNoisePlugin" });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
