@@ -7,3 +7,6 @@
 [submodule "Plugins/RuntimeMeshComponent"]
 	path = Plugins/RuntimeMeshComponent
 	url = https://github.com/Koderz/RuntimeMeshComponent
+[submodule "Plugins/GOAPer"]
+	path = Plugins/GOAPer
+	url = https://github.com/midgen/GOAPer
