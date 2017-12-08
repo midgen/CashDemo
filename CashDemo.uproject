@@ -18,6 +18,10 @@
 		{
 			"Name": "CashGen",
 			"Enabled": true
+		},
+		{
+			"Name": "CashUI",
+			"Enabled": true
 		}
 	]
 }
