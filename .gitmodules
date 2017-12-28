@@ -10,3 +10,6 @@
 [submodule "Plugins/GOAPer"]
 	path = Plugins/GOAPer
 	url = https://github.com/midgen/GOAPer
+[submodule "Plugins/CashUI"]
+	path = Plugins/CashUI
+	url = https://github.com/midgen/CashUI
