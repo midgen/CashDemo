@@ -13,3 +13,6 @@
 [submodule "Plugins/CashUI"]
 	path = Plugins/CashUI
 	url = https://github.com/midgen/CashUI
+[submodule "Plugins/uesvon"]
+	path = Plugins/uesvon
+	url = https://github.com/midgen/uesvon
