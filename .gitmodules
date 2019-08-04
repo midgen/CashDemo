@@ -16,6 +16,6 @@
 [submodule "Plugins/uesvon"]
 	path = Plugins/uesvon
 	url = https://github.com/midgen/uesvon
-[submodule "Plugins/UEBoids"]
-	path = Plugins/UEBoids
-	url = https://github.com/midgen/UEBoids.git
+[submodule "Plugins/ueboids"]
+	path = Plugins/ueboids
+	url = https://github.com/midgen/ueboids
