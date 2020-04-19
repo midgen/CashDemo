@@ -4,9 +4,6 @@
 [submodule "Plugins/Cashgen"]
 	path = Plugins/Cashgen
 	url = https://github.com/midgen/cashgenUE
-[submodule "Plugins/RuntimeMeshComponent"]
-	path = Plugins/RuntimeMeshComponent
-	url = https://github.com/Moddingear/RuntimeMeshComponent
 [submodule "Plugins/GOAPer"]
 	path = Plugins/GOAPer
 	url = https://github.com/midgen/GOAPer
