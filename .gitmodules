@@ -4,9 +4,6 @@
 [submodule "Plugins/Cashgen"]
 	path = Plugins/Cashgen
 	url = https://github.com/midgen/cashgenUE
-[submodule "Plugins/GOAPer"]
-	path = Plugins/GOAPer
-	url = https://github.com/midgen/GOAPer
 [submodule "Plugins/uesvon"]
 	path = Plugins/uesvon
 	url = https://github.com/midgen/uesvon
