@@ -20,10 +20,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "CashUI",
-			"Enabled": true
-		},
-		{
 			"Name": "uesvon",
 			"Enabled": true
 		}
