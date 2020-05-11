@@ -8,7 +8,16 @@ public class CashDemoEditorTarget : TargetRules
 	public CashDemoEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
+		
+		DefaultBuildSettings = BuildSettingsVersion.V2;
 
-		ExtraModuleNames.AddRange( new string[] { "CashDemo" } );
+		ExtraModuleNames.AddRange( new string[] 
+		{ 
+			"CashDemo",
+			"CashGen",
+			"UESVON",
+			"UESVONEditor",
+			"UnrealFastNoisePlugin",
+		} );
 	}
 }
