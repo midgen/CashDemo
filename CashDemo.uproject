@@ -22,6 +22,10 @@
 		{
 			"Name": "uesvon",
 			"Enabled": true
+		},
+		{
+			"Name": "ueboids",
+			"Enabled": true
 		}
 	]
 }
