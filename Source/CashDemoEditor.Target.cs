@@ -9,15 +9,17 @@ public class CashDemoEditorTarget : TargetRules
 	{
 		Type = TargetType.Editor;
 		
-		DefaultBuildSettings = BuildSettingsVersion.V2;
+		DefaultBuildSettings = BuildSettingsVersion.V5;
+		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;
 
-		ExtraModuleNames.AddRange( new string[] 
+        ExtraModuleNames.AddRange( new string[] 
 		{ 
 			"CashDemo",
 			"CashGen",
 			"UESVON",
 			"UESVONEditor",
 			"UnrealFastNoisePlugin",
-		} );
+            "ProceduralMeshComponent",
+        } );
 	}
 }
