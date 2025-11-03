@@ -1,5 +1,5 @@
 @echo off
-REM Build Delve Editor using UnrealBuildTool
+REM Build CashDemo Editor using UnrealBuildTool
 
 REM Check if UE_ENGINE_PATH environment variable is set
 if not defined UE_ENGINE_PATH (
